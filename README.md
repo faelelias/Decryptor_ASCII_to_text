@@ -61,7 +61,7 @@ Click here to learn more about PEP 8 </a>
 ## ✒️ Authors
 
 **Rafael ELias**  
-<p>Systems Development Analyst at Neoway.</p>
+<p>Systems Development Analyst | Infrastructure Consultant | Devops | Data Engineer.</p>
 e-mail: faelelias@gmail.com
 
 [Linkedin](https://www.linkedin.com/in/rafael-elias-20b13653/), 
